@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.png</file>
+        <file>forward.png</file>
+        <file>icons8-google-web-search-30.png</file>
+        <file>icons8-movies-folder-30.png</file>
+        <file>icons8-repeat-30.png</file>
+        <file>icons8-repeat-48.png</file>
+        <file>icons8-stop-30.png</file>
+        <file>open.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>icons8-voice-30.png</file>
+        <file>icons8-no-audio-30.png</file>
+        <file>icons8-in-progress-24.png</file>
+        <file>icons8-add-list-30.png</file>
+    </qresource>
+</RCC>
